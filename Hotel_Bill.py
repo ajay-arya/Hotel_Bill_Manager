@@ -221,5 +221,3 @@ btnExit=Button(f1,padx=16,pady=8,bd=16,fg="black",font=('arial',16,'bold'),width
 
 
 root.mainloop()
-
-
